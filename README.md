@@ -47,7 +47,7 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/fhsbwfck9brhwntjbb9f.webp" width="24" height="24" alt="Assembled logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Assembled](https://jobo.world/company/Assembled)
 
-* **[AI Agent Software Engineer - Agent Performance Engineering](https://jobs.ashbyhq.com/assembledhq/4d74d0f1-de21-42ef-a77c-874e477eaa25)** — $120,000 – $270,000 USD _(posted 2025-05-30)_
+* **[AI Agent Software Engineer - Agent Performance Engineering](https://jobs.ashbyhq.com/assembledhq/4d74d0f1-de21-42ef-a77c-874e477eaa25)** — ¤120,000 – ¤270,000 USD _(posted 2025-05-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ufu9ybmv5kierbneyd6z.webp" width="24" height="24" alt="Axsome Therapeutics Inc logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Axsome Therapeutics Inc](https://jobo.world/company/Axsome-Therapeutics-Inc)
 
@@ -102,6 +102,10 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Research Scientist II](https://dataminr.wd12.myworkdayjobs.com/dataminr/job/US-Remote/Research-Scientist-II_JR1722)** — _n/a_ _(posted 2025-03-26)_
 * **[Software Engineer III, Full Stack (Human AI Innovation Team)](https://dataminr.wd12.myworkdayjobs.com/dataminr/job/US-Remote/Software-Engineer-III--Full-Stack--Human-AI-Innovation-Team-_JR1700)** — _n/a_ _(posted 2025-02-26)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/x77bz7tzkp28x4p8fs8d.webp" width="24" height="24" alt="Dave logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dave](https://jobo.world/company/Dave)
+
+* **[Data Scientist II - Underwriting](https://jobs.ashbyhq.com/dave/9dfa43e1-ee40-447b-99d5-e7e7d5d388e6)** — ¤112,000 – ¤178,000 USD _(posted 2025-06-12)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sdfpocj9acizbzrl8sln.webp" width="24" height="24" alt="dv01 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[dv01](https://jobo.world/company/Dv01)
 
 * **[Data Analytics Engineer](https://boards.greenhouse.io/dv01/jobs/7967122002)** — _n/a_ _(posted 2025-04-22)_
@@ -112,13 +116,13 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ij1kvdwkn0w9aenlfz9t.webp" width="24" height="24" alt="Fieldguide logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fieldguide](https://jobo.world/company/Fieldguide)
 
-* **[Data Scientist ](https://jobs.ashbyhq.com/fieldguide/689e1035-9960-4814-83b2-405a22346e5c)** — $172,000 – $203,000 USD _(posted 2025-05-24)_
-* **[Senior Software Engineer, AI](https://jobs.ashbyhq.com/fieldguide/9823b0c9-e5c3-4bf7-940b-d759c36cd609)** — $168,000 – $203,000 USD _(posted 2025-05-02)_
-* **[Senior Machine Learning Engineer](https://jobs.ashbyhq.com/fieldguide/e11a7aea-ae86-44d7-913c-591a8a7d0803)** — $188,000 – $213,500 USD _(posted 2025-03-12)_
+* **[Data Scientist ](https://jobs.ashbyhq.com/fieldguide/689e1035-9960-4814-83b2-405a22346e5c)** — ¤172,000 – ¤203,000 USD _(posted 2025-05-24)_
+* **[Senior Software Engineer, AI](https://jobs.ashbyhq.com/fieldguide/9823b0c9-e5c3-4bf7-940b-d759c36cd609)** — ¤168,000 – ¤203,000 USD _(posted 2025-05-02)_
+* **[Senior Machine Learning Engineer](https://jobs.ashbyhq.com/fieldguide/e11a7aea-ae86-44d7-913c-591a8a7d0803)** — ¤188,000 – ¤213,500 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r7kzebg3baked8orrdyb.webp" width="24" height="24" alt="Flatfile logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flatfile](https://jobo.world/company/Flatfile)
 
-* **[AI Engineer](https://jobs.ashbyhq.com/flatfile/322d89ce-e6e2-44ed-a9bb-6e14a1d53b07)** — $180,000 – $200,000 USD _(posted 2025-06-11)_
+* **[AI Engineer](https://jobs.ashbyhq.com/flatfile/322d89ce-e6e2-44ed-a9bb-6e14a1d53b07)** — ¤180,000 – ¤200,000 USD _(posted 2025-06-11)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aufxt7vekckmzzbpqelk.webp" width="24" height="24" alt="Fleetio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fleetio](https://jobo.world/company/Fleetio)
 
@@ -132,10 +136,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 * **[Senior AI Engineer](https://jobs.lever.co/foodsmart/721a1ecf-2e21-4a66-94d0-7079bba6945d)** — _n/a_ _(posted 2025-05-31)_
 * **[Principal AI Engineer](https://jobs.lever.co/foodsmart/fa4849ce-a950-45a9-b449-7009cbf8c4e4)** — _n/a_ _(posted 2025-05-31)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zygt8q4wtnafdmkbzefv.webp" width="24" height="24" alt="Formstack logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Formstack](https://jobo.world/company/Formstack)
-
-* **[Data Science Intern](https://jobs.lever.co/formstack/23759a5a-7be5-4f12-9b38-0e29a3d6ac96)** — _n/a_ _(posted 2025-05-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lsd3cbraskjbk5xbizqa.webp" width="24" height="24" alt="FourKites logo" style="vertical-align:middle"/>&nbsp;&nbsp;[FourKites](https://jobo.world/company/FourKites)
 
@@ -158,16 +158,12 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ih7xwdumptjo0d31rw7e.webp" width="24" height="24" alt="HackerOne logo" style="vertical-align:middle"/>&nbsp;&nbsp;[HackerOne](https://jobo.world/company/HackerOne)
 
-* **[Senior Software Engineer, AI](https://jobs.ashbyhq.com/hackerone/1a9d0d89-58ac-4445-9645-d27422f797e0)** — $147,000 – $184,000 USD _(posted 2025-05-23)_
+* **[Senior Software Engineer, AI](https://jobs.ashbyhq.com/hackerone/1a9d0d89-58ac-4445-9645-d27422f797e0)** — ¤147,000 – ¤184,000 USD _(posted 2025-05-23)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2ezpbx124zsbrql2a7b.webp" width="24" height="24" alt="Hang logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hang](https://jobo.world/company/Hang)
 
 * **[Machine Learning Engineer](https://jobs.ashbyhq.com/hang/7b899a89-ed68-4988-8c3b-27ee46d6eca3)** — _n/a_ _(posted 2025-03-12)_
 * **[Data Scientist](https://jobs.ashbyhq.com/hang/c497f91c-9495-45ec-b4d5-8c76a9ef62e2)** — _n/a_ _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zcr2yjsivoviphozj9y6.webp" width="24" height="24" alt="Humana logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Humana](https://jobo.world/company/Humana)
-
-* **[Principal Data Scientist - Growth AI](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Principal-Data-Scientist---Growth-AI_R-378732)** — _n/a_ _(posted 2025-06-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjgangrpf64vx7s78vmf.webp" width="24" height="24" alt="Jellyfish logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jellyfish](https://jobo.world/company/Jellyfish)
 
@@ -179,16 +175,16 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ahthrshvmkoqome9owj0.webp" width="24" height="24" alt="Keywords Studios logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keywords Studios](https://jobo.world/company/Keywords-Studios)
 
-* **[Research Associate - AI (Eastern Standard Time)](https://apply.workable.com/keywords-intl1/j/1F55CC3323/)** — $50,400 – $56,160 USD _(posted 2025-03-12)_
-* **[Research Associate - AI](https://apply.workable.com/keywords-intl1/j/685C470D2C/)** — $50,400 – $56,700 USD _(posted 2025-03-03)_
-* **[Technical Research Associate - AI](https://apply.workable.com/keywords-intl1/j/AD6CD45570/)** — $53,840 – $60,720 USD _(posted 2025-03-03)_
-* **[Senior Research Associate - AI](https://apply.workable.com/keywords-intl1/j/AE603623C1/)** — $56,160 – $73,680 USD _(posted 2025-02-20)_
+* **[Research Associate - AI (Eastern Standard Time)](https://apply.workable.com/keywords-intl1/j/1F55CC3323/)** — ¤50,400 – ¤56,160 USD _(posted 2025-03-12)_
+* **[Research Associate - AI](https://apply.workable.com/keywords-intl1/j/685C470D2C/)** — ¤50,400 – ¤56,700 USD _(posted 2025-03-03)_
+* **[Technical Research Associate - AI](https://apply.workable.com/keywords-intl1/j/AD6CD45570/)** — ¤53,840 – ¤60,720 USD _(posted 2025-03-03)_
+* **[Senior Research Associate - AI](https://apply.workable.com/keywords-intl1/j/AE603623C1/)** — ¤56,160 – ¤73,680 USD _(posted 2025-02-20)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bjxntapcwce90erhhj8b.webp" width="24" height="24" alt="Machinify logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Machinify](https://jobo.world/company/Machinify)
 
 * **[Director | Data Science](https://jobs.ashbyhq.com/machinify/e5b280f5-272e-4943-96f2-96cd1fa71676)** — _n/a_ _(posted 2025-06-01)_
 * **[Lead ML Engineer](https://jobs.ashbyhq.com/machinify/8505920d-6301-47f6-aede-6fba5952a6da)** — _n/a_ _(posted 2025-03-12)_
-* **[Analytics Engineer](https://jobs.ashbyhq.com/machinify/ee058a5f-d05f-4baf-92d6-3353d74ecc0e)** — $180,000 – $200,000 USD _(posted 2025-03-12)_
+* **[Analytics Engineer](https://jobs.ashbyhq.com/machinify/ee058a5f-d05f-4baf-92d6-3353d74ecc0e)** — ¤180,000 – ¤200,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nboxtlr5jspiue29x9ji.webp" width="24" height="24" alt="Madhive logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Madhive](https://jobo.world/company/Madhive)
 
@@ -196,8 +192,8 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pskgbtvzunfrwxtkuyvl.webp" width="24" height="24" alt="Mission Lane logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mission Lane](https://jobo.world/company/Mission-Lane)
 
-* **[Staff Data Scientist](https://job-boards.greenhouse.io/missionlane/jobs/7952003002)** — $147,000 – $179,000 USD _(posted 2025-04-11)_
-* **[Principal Machine Learning Engineer](https://job-boards.greenhouse.io/missionlane/jobs/7917122002)** — $210,000 – $256,000 USD _(posted 2025-03-30)_
+* **[Staff Data Scientist](https://job-boards.greenhouse.io/missionlane/jobs/7952003002)** — ¤147,000 – ¤179,000 USD _(posted 2025-04-11)_
+* **[Principal Machine Learning Engineer](https://job-boards.greenhouse.io/missionlane/jobs/7917122002)** — ¤210,000 – ¤256,000 USD _(posted 2025-03-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhkqlmin9hu3z85qyabt.webp" width="24" height="24" alt="Mozilla logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mozilla](https://jobo.world/company/Mozilla)
 
@@ -222,16 +218,16 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oupqrzklqnqeu7s2rlp7.webp" width="24" height="24" alt="Rad AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rad AI](https://jobo.world/company/Rad-AI)
 
-* **[Senior Data Engineer](https://jobs.ashbyhq.com/radai/e63ba90c-b723-45f7-8856-e1603635f0c8)** — $145,000 – $190,000 USD _(posted 2025-03-29)_
-* **[Senior ML Research Scientist](https://jobs.ashbyhq.com/radai/579491a3-c7fa-4cf0-bffd-2e074ac8b4c2)** — $170,000 – $220,000 USD _(posted 2025-03-13)_
+* **[Senior Data Engineer](https://jobs.ashbyhq.com/radai/e63ba90c-b723-45f7-8856-e1603635f0c8)** — ¤145,000 – ¤190,000 USD _(posted 2025-03-29)_
+* **[Senior ML Research Scientist](https://jobs.ashbyhq.com/radai/579491a3-c7fa-4cf0-bffd-2e074ac8b4c2)** — ¤170,000 – ¤220,000 USD _(posted 2025-03-13)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/m3j6ycjwoy1gskwpws1y.webp" width="24" height="24" alt="Ramp logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ramp](https://jobo.world/company/Ramp)
 
-* **[Staff Machine Learning Engineer](https://jobs.ashbyhq.com/ramp/8feea132-de95-4dbe-8f0c-783f225ec7f3)** — $185,000 – $315,000 USD _(posted 2025-03-12)_
+* **[Staff Machine Learning Engineer](https://jobs.ashbyhq.com/ramp/8feea132-de95-4dbe-8f0c-783f225ec7f3)** — ¤185,000 – ¤315,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/osp88o3gd221lgronpfd.webp" width="24" height="24" alt="Reality Defender logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Reality Defender](https://jobo.world/company/Reality-Defender)
 
-* **[Applied AI Engineer (Audio)](https://jobs.ashbyhq.com/realitydefender/17780f5b-bc7e-472e-b6a3-e3141377e06a)** — $150,000 – $220,000 USD _(posted 2025-03-12)_
+* **[Applied AI Engineer (Audio)](https://jobs.ashbyhq.com/realitydefender/17780f5b-bc7e-472e-b6a3-e3141377e06a)** — ¤150,000 – ¤220,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zznxo2xrsb1vzlwmdok0.webp" width="24" height="24" alt="Red Cell Partners logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Red Cell Partners](https://jobo.world/company/RedCellPartners)
 
@@ -239,7 +235,7 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zn4umzvmywnnpmqzyjoi.webp" width="24" height="24" alt="Sardine logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sardine](https://jobo.world/company/Sardine)
 
-* **[Data Scientist ](https://jobs.ashbyhq.com/sardine/e6764411-1740-4ce1-8a9a-79ad459082ea)** — $150,000 – $170,000 USD _(posted 2025-05-13)_
+* **[Data Scientist ](https://jobs.ashbyhq.com/sardine/e6764411-1740-4ce1-8a9a-79ad459082ea)** — ¤150,000 – ¤170,000 USD _(posted 2025-05-13)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q980vtbupbvhldx41hpg.webp" width="24" height="24" alt="ScienceLogic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ScienceLogic](https://jobo.world/company/ScienceLogic)
 
@@ -247,26 +243,30 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dchccft73peyjb9awdqi.webp" width="24" height="24" alt="Serve Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Serve Robotics](https://jobo.world/company/Serve-Robotics)
 
-* **[Director, AI](https://jobs.ashbyhq.com/serverobotics/82be235e-f08e-477e-8aeb-22b80a167d2e)** — $225,000 – $311,000 USD _(posted 2025-03-12)_
+* **[Director, AI](https://jobs.ashbyhq.com/serverobotics/82be235e-f08e-477e-8aeb-22b80a167d2e)** — ¤225,000 – ¤311,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vrknusgpikuocehlycjt.webp" width="24" height="24" alt="Simon Data logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Simon Data](https://jobo.world/company/Simon-Data)
 
-* **[AI Campaign Specialist](https://jobs.ashbyhq.com/simondata/179ecf0a-d415-4539-a60c-205446734b00)** — $75,000 – $90,000 USD _(posted 2025-06-10)_
+* **[AI Campaign Specialist](https://jobs.ashbyhq.com/simondata/179ecf0a-d415-4539-a60c-205446734b00)** — ¤75,000 – ¤90,000 USD _(posted 2025-06-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q5xyiduwqktmohaaxudf.webp" width="24" height="24" alt="Sleeper logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sleeper](https://jobo.world/company/Sleeper)
 
-* **[Data Scientist](https://jobs.ashbyhq.com/sleeper/1685e1ae-6bf2-466e-ac60-0081cf04c091)** — $60,000 – $90,000 USD _(posted 2025-05-15)_
+* **[Data Scientist](https://jobs.ashbyhq.com/sleeper/1685e1ae-6bf2-466e-ac60-0081cf04c091)** — ¤60,000 – ¤90,000 USD _(posted 2025-05-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/omuszbxxi40zo5a3n10x.webp" width="24" height="24" alt="Snowflake logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Snowflake](https://jobo.world/company/Snowflake)
 
-* **[Senior AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/c2f3a849-7f6d-4d0c-b21e-e05212734814)** — $155,600 – $216,600 USD _(posted 2025-06-10)_
-* **[Principal AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/8d1803d4-b244-46a9-92e9-8a6d8e7fef64)** — $163,000 – $232,000 USD _(posted 2025-06-10)_
-* **[Solution Innovation Architect - AI/ML](https://jobs.ashbyhq.com/snowflake/772018eb-54c4-4bc9-bbb8-635a9051be81)** — $136,000 – $201,200 USD _(posted 2025-05-09)_
-* **[Principal AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/7624ff17-e507-4756-8c61-08dfa6465d18)** — $191,000 – $273,000 USD _(posted 2025-05-07)_
+* **[Senior AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/c2f3a849-7f6d-4d0c-b21e-e05212734814)** — ¤155,600 – ¤216,600 USD _(posted 2025-06-10)_
+* **[Principal AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/8d1803d4-b244-46a9-92e9-8a6d8e7fef64)** — ¤163,000 – ¤232,000 USD _(posted 2025-06-10)_
+* **[Solution Innovation Architect - AI/ML](https://jobs.ashbyhq.com/snowflake/772018eb-54c4-4bc9-bbb8-635a9051be81)** — ¤136,000 – ¤201,200 USD _(posted 2025-05-09)_
+* **[Principal AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/7624ff17-e507-4756-8c61-08dfa6465d18)** — ¤191,000 – ¤273,000 USD _(posted 2025-05-07)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t5wr5b1aqi2iummogzxo.webp" width="24" height="24" alt="Spot AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Spot AI](https://jobo.world/company/Spot-AI)
 
 * **[Staff Software Engineer, AI](https://boards.greenhouse.io/spotai/jobs/6259623003)** — _n/a_ _(posted 2025-03-14)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qzska8ypqmqsevnfvhod.webp" width="24" height="24" alt="Standard Bots logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Standard Bots](https://jobo.world/company/Standard-Bots)
+
+* **[Head of AI Research](https://jobs.ashbyhq.com/standardbots/cf131d20-e0cb-45ce-9d11-e0b95e6792b3)** — ¤300,000 – ¤350,000 USD _(posted 2025-06-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tkzoeuprdcsvlmiqsqk0.webp" width="24" height="24" alt="Substack logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Substack](https://jobo.world/company/Substack)
 
@@ -292,7 +292,7 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wkrv8bqwzwnyiu1zirqr.webp" width="24" height="24" alt="Trunk Tools logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Trunk Tools](https://jobo.world/company/Trunk-Tools,-Inc.)
 
-* **[ML Engineer (Remote, NYC, Austin)](https://jobs.ashbyhq.com%2Ftrunk%2520tools%2F1cca011e-bc3e-4118-aa48-7c2008b7e2c1)** — $140,000 – $200,000 USD _(posted 2025-03-12)_
+* **[ML Engineer (Remote, NYC, Austin)](https://jobs.ashbyhq.com%2Ftrunk%2520tools%2F1cca011e-bc3e-4118-aa48-7c2008b7e2c1)** — ¤140,000 – ¤200,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zq1j3077jl0jza2qltop.webp" width="24" height="24" alt="Turing logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Turing](https://jobo.world/company/Turing)
 
@@ -308,4 +308,4 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-06-12_
+_Updated automatically — 2025-06-13_
