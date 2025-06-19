@@ -29,10 +29,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 * **[AI Technical Solutions Manager, Remote](https://jobs.lever.co/aledade/e6e45b8e-c46c-42c1-abf8-7b186c08f45a)** — _n/a_ _(posted 2025-05-29)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zzomtjg1qh8bny0kgxwq.webp" width="24" height="24" alt="Alma logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Alma](https://jobo.world/company/Alma)
-
-* **[Senior Data Scientist, Machine Learning](https://boards.greenhouse.io/alma/jobs/7936565002)** — _n/a_ _(posted 2025-04-02)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/chwihdihlaepndnkqagr.webp" width="24" height="24" alt="Angi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Angi](https://jobo.world/company/Angi)
 
 * **[Director, Machine Learning &amp; Engineering](https://boards.greenhouse.io/angi/jobs/7947354002)** — _n/a_ _(posted 2025-04-09)_
@@ -87,6 +83,17 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 * **[Data Scientist](https://apply.workable.com/credit-key/j/2FF5D8D011/)** — _n/a_ _(posted 2025-03-11)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
+
+* **[Data Scientist III (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Data-Scientist-III--Remote-_R23498)** — _n/a_ _(posted 2025-06-17)_
+* **[Sr. Director, Data Science (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Director--Data-Science--Remote-_R23516)** — _n/a_ _(posted 2025-06-16)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sqbkzlv06ri5up7ea5sb.webp" width="24" height="24" alt="CSC Generation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CSC Generation](https://jobo.world/company/CSC-Generation)
+
+* **[AI-First Data Analyst (Technical &amp; Causal)](https://jobs.lever.co/cscgeneration-2/b5eae6f8-afd4-4d8b-b5b8-c8687754e91e)** — _n/a_ _(posted 2025-06-16)_
+* **[Business Intelligence Manager – AI &amp; Automation](https://jobs.lever.co/cscgeneration-2/b9666082-d7e9-4397-9caa-ea0c600ef302)** — _n/a_ _(posted 2025-06-16)_
+* **[Strategy &amp; Operations Analyst – AI Tools &amp; Automation](https://jobs.lever.co/cscgeneration-2/7c14931b-822b-40eb-8df4-3738337cdfea)** — _n/a_ _(posted 2025-06-16)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yc99athcktqvs3idudat.webp" width="24" height="24" alt="Danaher Corporation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Danaher Corporation](https://jobo.world/company/Danaher-Corporation)
 
 * **[Senior AI Scientist, Molecular Design - USA Remote](https://danaher.wd1.myworkdayjobs.com/danahercorporatejobs/job/USA---Remote/Senior-AI-Scientist--Molecular-Design---USA-Remote_R1289542)** — _n/a_ _(posted 2025-05-09)_
@@ -106,17 +113,9 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Research Scientist II](https://dataminr.wd12.myworkdayjobs.com/dataminr/job/US-Remote/Research-Scientist-II_JR1722)** — _n/a_ _(posted 2025-03-26)_
 * **[Software Engineer III, Full Stack (Human AI Innovation Team)](https://dataminr.wd12.myworkdayjobs.com/dataminr/job/US-Remote/Software-Engineer-III--Full-Stack--Human-AI-Innovation-Team-_JR1700)** — _n/a_ _(posted 2025-02-26)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/x77bz7tzkp28x4p8fs8d.webp" width="24" height="24" alt="Dave logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dave](https://jobo.world/company/Dave)
-
-* **[Data Scientist II - Underwriting](https://jobs.ashbyhq.com/dave/9dfa43e1-ee40-447b-99d5-e7e7d5d388e6)** — ¤112,000 – ¤178,000 USD _(posted 2025-06-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sdfpocj9acizbzrl8sln.webp" width="24" height="24" alt="dv01 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[dv01](https://jobo.world/company/Dv01)
 
 * **[Data Analytics Engineer](https://boards.greenhouse.io/dv01/jobs/7967122002)** — _n/a_ _(posted 2025-04-22)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nerakkfib4vn5co7bmr3.webp" width="24" height="24" alt="Expedia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Expedia](https://jobo.world/company/Expedia)
-
-* **[Senior Principal Data Scientist](https://jobs.smartrecruiters.com/Experian/744000064402226-senior-principal-data-scientist?oga=true)** — _n/a_ _(posted 2025-06-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ij1kvdwkn0w9aenlfz9t.webp" width="24" height="24" alt="Fieldguide logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fieldguide](https://jobo.world/company/Fieldguide)
 
@@ -161,7 +160,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/umwhro8f0paywqxuwhji.webp" width="24" height="24" alt="Goodleap logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Goodleap](https://jobo.world/company/Goodleap)
 
 * **[Principal AI Engineer - Servicing Solutions](https://jobs.lever.co/goodleap/474695b1-a630-401f-9089-23b6ac64f3d7)** — _n/a_ _(posted 2025-03-20)_
-* **[Staff Software Engineer, AI](https://jobs.lever.co/goodleap/6c625b9f-e358-49dc-8a0f-fbd4dd395897)** — _n/a_ _(posted 2025-01-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ih7xwdumptjo0d31rw7e.webp" width="24" height="24" alt="HackerOne logo" style="vertical-align:middle"/>&nbsp;&nbsp;[HackerOne](https://jobo.world/company/HackerOne)
 
@@ -178,7 +176,7 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
-* **[Data Scientist](https://jobs.ashbyhq.com/jerry/0880ac7f-b79f-419e-8d5d-539210ba4d5e)** — _n/a_ _(posted 2025-06-14)_
+* **[Data Scientist](https://jobs.ashbyhq.com/jerry/18b237fe-2657-4d7f-9c90-d86a3f5d0184)** — _n/a_ _(posted 2025-06-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ahthrshvmkoqome9owj0.webp" width="24" height="24" alt="Keywords Studios logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keywords Studios](https://jobo.world/company/Keywords-Studios)
 
@@ -186,6 +184,10 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Research Associate - AI](https://apply.workable.com/keywords-intl1/j/685C470D2C/)** — ¤50,400 – ¤56,700 USD _(posted 2025-03-03)_
 * **[Technical Research Associate - AI](https://apply.workable.com/keywords-intl1/j/AD6CD45570/)** — ¤53,840 – ¤60,720 USD _(posted 2025-03-03)_
 * **[Senior Research Associate - AI](https://apply.workable.com/keywords-intl1/j/AE603623C1/)** — ¤56,160 – ¤73,680 USD _(posted 2025-02-20)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/amhjkbsdbliizek6hpf8.webp" width="24" height="24" alt="Legion logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Legion](https://jobo.world/company/Legion)
+
+* **[Head of AI Engineering](https://job-boards.greenhouse.io/legion/jobs/6586098003)** — _n/a_ _(posted 2025-06-18)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bjxntapcwce90erhhj8b.webp" width="24" height="24" alt="Machinify logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Machinify](https://jobo.world/company/Machinify)
 
@@ -220,10 +222,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Senior Data Engineer](https://jobs.ashbyhq.com/radai/e63ba90c-b723-45f7-8856-e1603635f0c8)** — ¤145,000 – ¤190,000 USD _(posted 2025-03-29)_
 * **[Senior ML Research Scientist](https://jobs.ashbyhq.com/radai/579491a3-c7fa-4cf0-bffd-2e074ac8b4c2)** — ¤170,000 – ¤220,000 USD _(posted 2025-03-13)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/m3j6ycjwoy1gskwpws1y.webp" width="24" height="24" alt="Ramp logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Ramp](https://jobo.world/company/Ramp)
-
-* **[Staff Machine Learning Engineer](https://jobs.ashbyhq.com/ramp/8feea132-de95-4dbe-8f0c-783f225ec7f3)** — ¤185,000 – ¤315,000 USD _(posted 2025-03-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/osp88o3gd221lgronpfd.webp" width="24" height="24" alt="Reality Defender logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Reality Defender](https://jobo.world/company/Reality-Defender)
 
 * **[Applied AI Engineer (Audio)](https://jobs.ashbyhq.com/realitydefender/17780f5b-bc7e-472e-b6a3-e3141377e06a)** — ¤150,000 – ¤220,000 USD _(posted 2025-03-12)_
@@ -240,14 +238,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 * **[Agentic AI Machine Learning Engineer](https://job-boards.greenhouse.io/sciencelogic/jobs/6956419)** — _n/a_ _(posted 2025-06-06)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dchccft73peyjb9awdqi.webp" width="24" height="24" alt="Serve Robotics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Serve Robotics](https://jobo.world/company/Serve-Robotics)
-
-* **[Director, AI](https://jobs.ashbyhq.com/serverobotics/82be235e-f08e-477e-8aeb-22b80a167d2e)** — ¤225,000 – ¤311,000 USD _(posted 2025-03-12)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w1bo7icmsyka4gglxpty.webp" width="24" height="24" alt="ServiceNow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ServiceNow](https://jobo.world/company/ServiceNow)
-
-* **[Staff AI/ML Software Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000064804195-staff-ai-ml-software-engineer?oga=true)** — _n/a_ _(posted 2025-06-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vrknusgpikuocehlycjt.webp" width="24" height="24" alt="Simon Data logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Simon Data](https://jobo.world/company/Simon-Data)
 
 * **[Senior AI Campaign Manager](https://jobs.ashbyhq.com/simondata/443cd5f2-52f7-4109-b3b7-55b5347e8fb6)** — ¤130,000 – ¤150,000 USD _(posted 2025-06-14)_
@@ -260,6 +250,7 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 * **[Senior AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/c2f3a849-7f6d-4d0c-b21e-e05212734814)** — ¤155,600 – ¤216,600 USD _(posted 2025-06-10)_
 * **[Principal AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/8d1803d4-b244-46a9-92e9-8a6d8e7fef64)** — ¤163,000 – ¤232,000 USD _(posted 2025-06-10)_
+* **[Solution Innovation Architect - AI/ML](https://jobs.ashbyhq.com/snowflake/772018eb-54c4-4bc9-bbb8-635a9051be81)** — ¤136,000 – ¤201,200 USD _(posted 2025-05-09)_
 * **[Principal AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/7624ff17-e507-4756-8c61-08dfa6465d18)** — ¤191,000 – ¤273,000 USD _(posted 2025-05-07)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t5wr5b1aqi2iummogzxo.webp" width="24" height="24" alt="Spot AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Spot AI](https://jobo.world/company/Spot-AI)
@@ -314,4 +305,4 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-06-18_
+_Updated automatically — 2025-06-19_
