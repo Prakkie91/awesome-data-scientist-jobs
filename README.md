@@ -213,6 +213,10 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Staff Software Engineer, AI and Data Technology](https://job-boards.greenhouse.io/omadahealth/jobs/6822126)** — _n/a_ _(posted 2025-05-30)_
 * **[Senior Software Engineer, AI and Data Technology](https://job-boards.greenhouse.io/omadahealth/jobs/6916705)** — _n/a_ _(posted 2025-05-30)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/eh6ujvleqqlksv3spdzl.webp" width="24" height="24" alt="Plotly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Plotly](https://jobo.world/company/Plotly)
+
+* **[Senior Full Stack Software Engineer- AI](https://job-boards.greenhouse.io/plotly/jobs/8041949002)** — _n/a_ _(posted 2025-06-19)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/soku7uepfoyx1wjqaus4.webp" width="24" height="24" alt="Protective Life logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Protective Life](https://jobo.world/company/Protective-Life)
 
 * **[Lead AI/ML Engineer](https://jobs.lever.co/protective/87a65cc8-c3cc-437a-bac5-a7189c50ed9a)** — _n/a_ _(posted 2025-06-10)_
@@ -250,7 +254,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 * **[Senior AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/c2f3a849-7f6d-4d0c-b21e-e05212734814)** — ¤155,600 – ¤216,600 USD _(posted 2025-06-10)_
 * **[Principal AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/8d1803d4-b244-46a9-92e9-8a6d8e7fef64)** — ¤163,000 – ¤232,000 USD _(posted 2025-06-10)_
-* **[Solution Innovation Architect - AI/ML](https://jobs.ashbyhq.com/snowflake/772018eb-54c4-4bc9-bbb8-635a9051be81)** — ¤136,000 – ¤201,200 USD _(posted 2025-05-09)_
 * **[Principal AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/7624ff17-e507-4756-8c61-08dfa6465d18)** — ¤191,000 – ¤273,000 USD _(posted 2025-05-07)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t5wr5b1aqi2iummogzxo.webp" width="24" height="24" alt="Spot AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Spot AI](https://jobo.world/company/Spot-AI)
@@ -305,4 +308,4 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-06-19_
+_Updated automatically — 2025-06-20_
