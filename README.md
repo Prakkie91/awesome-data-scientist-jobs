@@ -168,7 +168,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2ezpbx124zsbrql2a7b.webp" width="24" height="24" alt="Hang logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hang](https://jobo.world/company/Hang)
 
 * **[Machine Learning Engineer](https://jobs.ashbyhq.com/hang/7b899a89-ed68-4988-8c3b-27ee46d6eca3)** — _n/a_ _(posted 2025-03-12)_
-* **[Data Scientist](https://jobs.ashbyhq.com/hang/c497f91c-9495-45ec-b4d5-8c76a9ef62e2)** — _n/a_ _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjgangrpf64vx7s78vmf.webp" width="24" height="24" alt="Jellyfish logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jellyfish](https://jobo.world/company/Jellyfish)
 
@@ -180,6 +179,7 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ahthrshvmkoqome9owj0.webp" width="24" height="24" alt="Keywords Studios logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keywords Studios](https://jobo.world/company/Keywords-Studios)
 
+* **[Human Data Research Analyst](https://apply.workable.com/keywords-intl1/j/5616A8953F/)** — ¤35,000 – ¤40,000 USD _(posted 2025-06-19)_
 * **[Research Associate - AI (Eastern Standard Time)](https://apply.workable.com/keywords-intl1/j/1F55CC3323/)** — ¤50,400 – ¤56,160 USD _(posted 2025-03-12)_
 * **[Research Associate - AI](https://apply.workable.com/keywords-intl1/j/685C470D2C/)** — ¤50,400 – ¤56,700 USD _(posted 2025-03-03)_
 * **[Technical Research Associate - AI](https://apply.workable.com/keywords-intl1/j/AD6CD45570/)** — ¤53,840 – ¤60,720 USD _(posted 2025-03-03)_
@@ -308,4 +308,4 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-06-20_
+_Updated automatically — 2025-06-21_
