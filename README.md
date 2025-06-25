@@ -97,7 +97,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tffstkezwnfefgtgk00r.webp" width="24" height="24" alt="DataCamp logo" style="vertical-align:middle"/>&nbsp;&nbsp;[DataCamp](https://jobo.world/company/DataCamp)
 
 * **[AI Engineering Curriculum Manager](https://job-boards.greenhouse.io/datacamp/jobs/6931857)** — _n/a_ _(posted 2025-05-30)_
-* **[Curriculum Manager in Artificial Intelligence](https://job-boards.greenhouse.io/datacamp/jobs/6931869)** — _n/a_ _(posted 2025-05-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pbekjf3dglwnuawekmds.webp" width="24" height="24" alt="Dataiku logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Dataiku](https://jobo.world/company/Dataiku)
 
@@ -171,8 +170,8 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
-* **[Staff Data Scientist (Machine Learning)](https://jobs.ashbyhq.com/jerry/48304e7d-274b-497c-9d1b-328292449b41)** — _n/a_ _(posted 2025-06-21)_
-* **[Data Scientist](https://jobs.ashbyhq.com/jerry/4d968ce8-0e83-4f85-8e50-b6128506d734)** — _n/a_ _(posted 2025-06-21)_
+* **[Staff Data Scientist (Machine Learning)](https://jobs.ashbyhq.com/jerry/2b1a9083-a42a-40f9-86d8-ba0b0a6a5986)** — _n/a_ _(posted 2025-06-24)_
+* **[Data Scientist](https://jobs.ashbyhq.com/jerry/ddd9fbbf-c483-4112-84da-eb794b552527)** — _n/a_ _(posted 2025-06-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ahthrshvmkoqome9owj0.webp" width="24" height="24" alt="Keywords Studios logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keywords Studios](https://jobo.world/company/Keywords-Studios)
 
@@ -205,6 +204,10 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Staff Data Scientist](https://job-boards.greenhouse.io/missionlane/jobs/7952003002)** — ¤147,000 – ¤179,000 USD _(posted 2025-04-11)_
 * **[Principal Machine Learning Engineer](https://job-boards.greenhouse.io/missionlane/jobs/7917122002)** — ¤210,000 – ¤256,000 USD _(posted 2025-03-30)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zwubunmuzrhumn3mx2us.webp" width="24" height="24" alt="Motive logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motive](https://jobo.world/company/Motive)
+
+* **[Senior Applied Scientist](https://job-boards.greenhouse.io/gomotive/jobs/8042652002)** — _n/a_ _(posted 2025-06-24)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhkqlmin9hu3z85qyabt.webp" width="24" height="24" alt="Mozilla logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mozilla](https://jobo.world/company/Mozilla)
 
 * **[Staff Machine Learning Engineer, Gen AI](https://boards.greenhouse.io/mozilla/jobs/6141864)** — _n/a_ _(posted 2025-03-14)_
@@ -217,10 +220,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/eh6ujvleqqlksv3spdzl.webp" width="24" height="24" alt="Plotly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Plotly](https://jobo.world/company/Plotly)
 
 * **[Senior Full Stack Software Engineer- AI](https://job-boards.greenhouse.io/plotly/jobs/8041949002)** — _n/a_ _(posted 2025-06-19)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/soku7uepfoyx1wjqaus4.webp" width="24" height="24" alt="Protective Life logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Protective Life](https://jobo.world/company/Protective-Life)
-
-* **[Lead AI/ML Engineer](https://jobs.lever.co/protective/87a65cc8-c3cc-437a-bac5-a7189c50ed9a)** — _n/a_ _(posted 2025-06-10)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/oupqrzklqnqeu7s2rlp7.webp" width="24" height="24" alt="Rad AI logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rad AI](https://jobo.world/company/Rad-AI)
 
@@ -269,6 +268,10 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 * **[Artificial Intelligence (AI) Engineers](https://apply.workable.com/getsubstance/j/587184A15D/)** — _n/a_ _(posted 2025-01-21)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vsvaakrxgrzkaqdtctvl.webp" width="24" height="24" alt="Surgical Data Science Collective logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Surgical Data Science Collective](https://jobo.world/company/Surgical-Data-Science-Collective)
+
+* **[Senior Data Scientist](https://jobs.ashbyhq.com/sdsc/e93d1b6f-f90e-450d-8ce0-81fe6ee4013c)** — _n/a_ _(posted 2025-03-12)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cpd2x56dlcdgm8ese4rq.webp" width="24" height="24" alt="Technergetics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Technergetics](https://jobo.world/company/Technergetics)
 
 * **[Machine Learning Research Engineer III](https://job-boards.greenhouse.io/technergetics/jobs/4573236006)** — _n/a_ _(posted 2025-06-04)_
@@ -305,4 +308,4 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-06-24_
+_Updated automatically — 2025-06-25_
