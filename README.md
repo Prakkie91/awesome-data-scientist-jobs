@@ -46,6 +46,11 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 * **[AI Agent Software Engineer - Agent Performance Engineering](https://jobs.ashbyhq.com/assembledhq/4d74d0f1-de21-42ef-a77c-874e477eaa25)** — ¤120,000 – ¤270,000 USD _(posted 2025-05-30)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ufu9ybmv5kierbneyd6z.webp" width="24" height="24" alt="Axsome Therapeutics Inc logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Axsome Therapeutics Inc](https://jobo.world/company/Axsome-Therapeutics-Inc)
+
+* **[Machine Learning Scientist II/Sr (Omics)](https://jobs.ashbyhq.com/iambic-therapeutics/926c7fe3-42fc-44d9-b5f3-29dde2068f08)** — ¤152,000 – ¤215,000 USD _(posted 2025-06-26)_
+* **[Software Data Engineer](https://jobs.ashbyhq.com/iambic-therapeutics/ae0e2334-7250-4291-85b9-33b4e322d158)** — _n/a_ _(posted 2025-04-12)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/haqaiftm1swlpga8pyfi.webp" width="24" height="24" alt="BambooHR logo" style="vertical-align:middle"/>&nbsp;&nbsp;[BambooHR](https://jobo.world/company/BambooHR)
 
 * **[AI/ML Architect](https://job-boards.greenhouse.io/bamboohr17/jobs/5542995004)** — _n/a_ _(posted 2025-06-04)_
@@ -56,10 +61,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Artificial Intelligence Machine Learning (AI/ML) Cloud Engineer](https://boards.greenhouse.io/barbaricum/jobs/4552293008)** — _n/a_ _(posted 2025-03-14)_
 * **[Artificial Intelligence Machine Learning (AI/ML) Feature Presentation Lead](https://boards.greenhouse.io/barbaricum/jobs/4552328008)** — _n/a_ _(posted 2025-03-14)_
 * **[Artificial Intelligence Machine Learning (AI/ML) Governance Subject Matter Expert (SME)](https://boards.greenhouse.io/barbaricum/jobs/4552261008)** — _n/a_ _(posted 2025-03-14)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pqfdfrjmqmxbudyqcngn.webp" width="24" height="24" alt="Baxter International logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Baxter International](https://jobo.world/company/Baxter-International)
-
-* **[Senior Data Scientist - AI Modeling](https://baxter.wd1.myworkdayjobs.com/baxter/job/United-States-of-America---Remote/Senior-Data-Scientist_JR-162263-1)** — _n/a_ _(posted 2025-03-19)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ex51fd3wt4w9cnurc1wy.webp" width="24" height="24" alt="Biorender logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Biorender](https://jobo.world/company/Biorender)
 
@@ -147,6 +148,10 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[AI Sales Subject Matter Expert (SME) and Instructor (Contract)](https://boards.greenhouse.io/generalassembly/jobs/6657525)** — _n/a_ _(posted 2025-03-14)_
 * **[AI Legal Subject Matter Expert (SME) and Instructor (Contract)](https://boards.greenhouse.io/generalassembly/jobs/6657536)** — _n/a_ _(posted 2025-03-14)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ylzw9qawu4pu9hp63rdv.webp" width="24" height="24" alt="Glean logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Glean](https://jobo.world/company/Glean)
+
+* **[AI Outcomes Manager](https://job-boards.greenhouse.io/gleanwork/jobs/4549208005)** — _n/a_ _(posted 2025-04-15)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/umwhro8f0paywqxuwhji.webp" width="24" height="24" alt="Goodleap logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Goodleap](https://jobo.world/company/Goodleap)
 
 * **[Principal AI Engineer - Servicing Solutions](https://jobs.lever.co/goodleap/474695b1-a630-401f-9089-23b6ac64f3d7)** — _n/a_ _(posted 2025-03-20)_
@@ -165,9 +170,10 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
-* **[Data Scientist](https://jobs.ashbyhq.com/jerry/175c7fe9-c0e5-4219-bd6b-b0fdc77db8a0)** — _n/a_ _(posted 2025-06-25)_
+* **[Data Scientist](https://jobs.ashbyhq.com/jerry/2b27c72d-5db6-45cd-8ce2-4ffb336aaff1)** — _n/a_ _(posted 2025-06-26)_
+* **[Data Scientist](https://jobs.ashbyhq.com/jerry/4d14ab23-d1da-413b-80db-29d2694cc969)** — _n/a_ _(posted 2025-06-26)_
+* **[Data Scientist](https://jobs.ashbyhq.com/jerry/60afcb66-4ef1-4f95-9fa5-330172a4cba9)** — _n/a_ _(posted 2025-06-26)_
 * **[Staff Data Scientist (Machine Learning)](https://jobs.ashbyhq.com/jerry/2b1a9083-a42a-40f9-86d8-ba0b0a6a5986)** — _n/a_ _(posted 2025-06-24)_
-* **[Data Scientist](https://jobs.ashbyhq.com/jerry/ddd9fbbf-c483-4112-84da-eb794b552527)** — _n/a_ _(posted 2025-06-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ahthrshvmkoqome9owj0.webp" width="24" height="24" alt="Keywords Studios logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keywords Studios](https://jobo.world/company/Keywords-Studios)
 
@@ -199,7 +205,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pskgbtvzunfrwxtkuyvl.webp" width="24" height="24" alt="Mission Lane logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mission Lane](https://jobo.world/company/Mission-Lane)
 
 * **[Staff Data Scientist](https://job-boards.greenhouse.io/missionlane/jobs/7952003002)** — ¤147,000 – ¤179,000 USD _(posted 2025-04-11)_
-* **[Principal Machine Learning Engineer](https://job-boards.greenhouse.io/missionlane/jobs/7917122002)** — ¤210,000 – ¤256,000 USD _(posted 2025-03-30)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zwubunmuzrhumn3mx2us.webp" width="24" height="24" alt="Motive logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motive](https://jobo.world/company/Motive)
 
@@ -253,7 +258,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/omuszbxxi40zo5a3n10x.webp" width="24" height="24" alt="Snowflake logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Snowflake](https://jobo.world/company/Snowflake)
 
-* **[Senior AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/c2f3a849-7f6d-4d0c-b21e-e05212734814)** — ¤155,600 – ¤216,600 USD _(posted 2025-06-10)_
 * **[Principal AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/8d1803d4-b244-46a9-92e9-8a6d8e7fef64)** — ¤163,000 – ¤232,000 USD _(posted 2025-06-10)_
 * **[Principal AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/7624ff17-e507-4756-8c61-08dfa6465d18)** — ¤191,000 – ¤273,000 USD _(posted 2025-05-07)_
 
@@ -281,7 +285,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 * **[Sr. Data Engineer II](https://jobs.lever.co/trueml/0e2a9f91-3557-46c9-afb1-8feb8bca4231)** — _n/a_ _(posted 2025-05-18)_
 * **[Senior Machine Learning Engineer](https://jobs.lever.co/trueml/95d90f91-fb45-4563-bcf2-3ae7f3ee81c8)** — _n/a_ _(posted 2025-04-03)_
-* **[Data Scientist II](https://jobs.lever.co/trueml/aac09c60-24e8-419c-b072-5e9ec7623682)** — _n/a_ _(posted 2025-01-29)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wkrv8bqwzwnyiu1zirqr.webp" width="24" height="24" alt="Trunk Tools logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Trunk Tools](https://jobo.world/company/Trunk-Tools,-Inc.)
 
@@ -305,4 +308,4 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-06-26_
+_Updated automatically — 2025-06-27_
