@@ -49,7 +49,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ufu9ybmv5kierbneyd6z.webp" width="24" height="24" alt="Axsome Therapeutics Inc logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Axsome Therapeutics Inc](https://jobo.world/company/Axsome-Therapeutics-Inc)
 
 * **[Machine Learning Scientist II/Sr (Omics)](https://jobs.ashbyhq.com/iambic-therapeutics/926c7fe3-42fc-44d9-b5f3-29dde2068f08)** — ¤152,000 – ¤215,000 USD _(posted 2025-06-26)_
-* **[Software Data Engineer](https://jobs.ashbyhq.com/iambic-therapeutics/ae0e2334-7250-4291-85b9-33b4e322d158)** — _n/a_ _(posted 2025-04-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/haqaiftm1swlpga8pyfi.webp" width="24" height="24" alt="BambooHR logo" style="vertical-align:middle"/>&nbsp;&nbsp;[BambooHR](https://jobo.world/company/BambooHR)
 
@@ -78,6 +77,7 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
+* **[Sr. Machine Learning Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Machine-Learning-Engineer--Remote-_R23602)** — _n/a_ _(posted 2025-06-26)_
 * **[Sr. Director, Data Science (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Director--Data-Science--Remote-_R23516)** — _n/a_ _(posted 2025-06-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sqbkzlv06ri5up7ea5sb.webp" width="24" height="24" alt="CSC Generation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CSC Generation](https://jobo.world/company/CSC-Generation)
@@ -144,13 +144,8 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hesujoi8iavisymm5ug3.webp" width="24" height="24" alt="General Assembly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[General Assembly](https://jobo.world/company/General-Assembly)
 
-* **[AI HR Subject Matter Expert (SME) and Instructor (Contract)](https://boards.greenhouse.io/generalassembly/jobs/6657498)** — _n/a_ _(posted 2025-03-14)_
 * **[AI Sales Subject Matter Expert (SME) and Instructor (Contract)](https://boards.greenhouse.io/generalassembly/jobs/6657525)** — _n/a_ _(posted 2025-03-14)_
 * **[AI Legal Subject Matter Expert (SME) and Instructor (Contract)](https://boards.greenhouse.io/generalassembly/jobs/6657536)** — _n/a_ _(posted 2025-03-14)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ylzw9qawu4pu9hp63rdv.webp" width="24" height="24" alt="Glean logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Glean](https://jobo.world/company/Glean)
-
-* **[AI Outcomes Manager](https://job-boards.greenhouse.io/gleanwork/jobs/4549208005)** — _n/a_ _(posted 2025-04-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/umwhro8f0paywqxuwhji.webp" width="24" height="24" alt="Goodleap logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Goodleap](https://jobo.world/company/Goodleap)
 
@@ -214,10 +209,18 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 * **[Staff Machine Learning Engineer, Gen AI](https://boards.greenhouse.io/mozilla/jobs/6141864)** — _n/a_ _(posted 2025-03-14)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/txhnjc4c5hu3msapwpp7.webp" width="24" height="24" alt="NVIDIA logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NVIDIA](https://jobo.world/company/NVIDIA)
+
+* **[Senior Product Manager – AI for Retail](https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/US-CA-Remote/Senior-Product-Manager---AI-for-Retail_JR1999356)** — _n/a_ _(posted 2025-06-26)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wxdvxnvmgfynvcvm4zpo.webp" width="24" height="24" alt="Omada Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Omada Health](https://jobo.world/company/Omada-Health)
 
 * **[Staff Software Engineer, AI and Data Technology](https://job-boards.greenhouse.io/omadahealth/jobs/6822126)** — _n/a_ _(posted 2025-05-30)_
 * **[Senior Software Engineer, AI and Data Technology](https://job-boards.greenhouse.io/omadahealth/jobs/6916705)** — _n/a_ _(posted 2025-05-30)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/d2yjlpuizwrhcwryx5uj.webp" width="24" height="24" alt="Panopto logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Panopto](https://jobo.world/company/Panopto)
+
+* **[Machine Learning Lead (R&D)](https://jobs.ashbyhq.com/panoptyc/b2664f90-ea7b-417b-9d92-6617dd21fa30)** — _n/a_ _(posted 2025-06-27)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jqluxvjjehdk8lnz0lrg.webp" width="24" height="24" alt="Platform Science logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Platform Science](https://jobo.world/company/Platform-Science)
 
@@ -248,9 +251,13 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 * **[Agentic AI Machine Learning Engineer](https://job-boards.greenhouse.io/sciencelogic/jobs/6956419)** — _n/a_ _(posted 2025-06-06)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/vrknusgpikuocehlycjt.webp" width="24" height="24" alt="Simon Data logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Simon Data](https://jobo.world/company/Simon-Data)
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/z5uwwyqxguofrmbzy43j.webp" width="24" height="24" alt="Self Financial logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Self Financial](https://jobo.world/company/Self-Financial)
 
-* **[Senior AI Campaign Manager](https://jobs.ashbyhq.com/simondata/443cd5f2-52f7-4109-b3b7-55b5347e8fb6)** — ¤130,000 – ¤150,000 USD _(posted 2025-06-14)_
+* **[Principal Data Scientist](https://job-boards.greenhouse.io/selffinancial/jobs/5567334004)** — _n/a_ _(posted 2025-06-27)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w1bo7icmsyka4gglxpty.webp" width="24" height="24" alt="ServiceNow logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ServiceNow](https://jobo.world/company/ServiceNow)
+
+* **[Senior Machine Learning Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000067362535-senior-machine-learning-engineer?oga=true)** — _n/a_ _(posted 2025-06-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q5xyiduwqktmohaaxudf.webp" width="24" height="24" alt="Sleeper logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Sleeper](https://jobo.world/company/Sleeper)
 
@@ -276,10 +283,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cpd2x56dlcdgm8ese4rq.webp" width="24" height="24" alt="Technergetics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Technergetics](https://jobo.world/company/Technergetics)
 
 * **[Machine Learning Research Engineer III](https://job-boards.greenhouse.io/technergetics/jobs/4573236006)** — _n/a_ _(posted 2025-06-04)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r40ajrc2uetxb7obycan.webp" width="24" height="24" alt="TetraScience logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TetraScience](https://jobo.world/company/TetraScience)
-
-* **[Senior Applied AI/ML Engineer](https://apply.workable.com/tetrascience/j/E47D559017/)** — _n/a_ _(posted 2025-06-06)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ygnclnukk5vq4h7jcssi.webp" width="24" height="24" alt="TrueML logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TrueML](https://jobo.world/company/TrueML)
 
@@ -308,4 +311,4 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-06-27_
+_Updated automatically — 2025-06-28_
