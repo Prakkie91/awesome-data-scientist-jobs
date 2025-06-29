@@ -31,7 +31,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/chwihdihlaepndnkqagr.webp" width="24" height="24" alt="Angi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Angi](https://jobo.world/company/Angi)
 
-* **[Director, Machine Learning &amp; Engineering](https://boards.greenhouse.io/angi/jobs/7947354002)** — _n/a_ _(posted 2025-04-09)_
 * **[Staff Machine Learning Engineer](https://boards.greenhouse.io/angi/jobs/7846355002)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lbufpqzw8oxu5j9gdgjf.webp" width="24" height="24" alt="Appen logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Appen](https://jobo.world/company/Appen)
@@ -78,7 +77,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
 
 * **[Sr. Machine Learning Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Machine-Learning-Engineer--Remote-_R23602)** — _n/a_ _(posted 2025-06-26)_
-* **[Sr. Director, Data Science (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Director--Data-Science--Remote-_R23516)** — _n/a_ _(posted 2025-06-16)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sqbkzlv06ri5up7ea5sb.webp" width="24" height="24" alt="CSC Generation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CSC Generation](https://jobo.world/company/CSC-Generation)
 
@@ -165,10 +163,10 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
-* **[Data Scientist](https://jobs.ashbyhq.com/jerry/2b27c72d-5db6-45cd-8ce2-4ffb336aaff1)** — _n/a_ _(posted 2025-06-26)_
-* **[Data Scientist](https://jobs.ashbyhq.com/jerry/4d14ab23-d1da-413b-80db-29d2694cc969)** — _n/a_ _(posted 2025-06-26)_
-* **[Data Scientist](https://jobs.ashbyhq.com/jerry/60afcb66-4ef1-4f95-9fa5-330172a4cba9)** — _n/a_ _(posted 2025-06-26)_
-* **[Staff Data Scientist (Machine Learning)](https://jobs.ashbyhq.com/jerry/2b1a9083-a42a-40f9-86d8-ba0b0a6a5986)** — _n/a_ _(posted 2025-06-24)_
+* **[Staff Data Scientist (Machine Learning)](https://jobs.ashbyhq.com/jerry/0ea18057-0163-44cd-b9ed-c01c9c0bb172)** — _n/a_ _(posted 2025-06-28)_
+* **[Data Scientist](https://jobs.ashbyhq.com/jerry/0a646b72-4994-41f8-bcbd-4c52ae9d4623)** — _n/a_ _(posted 2025-06-28)_
+* **[Data Scientist](https://jobs.ashbyhq.com/jerry/6a1b26e1-8db4-4f25-97a7-a0408ef5ab7d)** — _n/a_ _(posted 2025-06-28)_
+* **[Data Scientist](https://jobs.ashbyhq.com/jerry/5df7e962-04a4-4284-bbd9-4c1f292a3511)** — _n/a_ _(posted 2025-06-28)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ahthrshvmkoqome9owj0.webp" width="24" height="24" alt="Keywords Studios logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Keywords Studios](https://jobo.world/company/Keywords-Studios)
 
@@ -286,6 +284,8 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ygnclnukk5vq4h7jcssi.webp" width="24" height="24" alt="TrueML logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TrueML](https://jobo.world/company/TrueML)
 
+* **[Business Operations &amp; AI Strategist](https://jobs.lever.co/trueml/8295972c-8959-4038-bbda-529c76d17be3)** — _n/a_ _(posted 2025-06-27)_
+* **[Business Operations &amp; AI Strategist](https://jobs.lever.co/trueml/367895dc-76f0-42b4-ac57-3a7ae5413666)** — _n/a_ _(posted 2025-06-27)_
 * **[Sr. Data Engineer II](https://jobs.lever.co/trueml/0e2a9f91-3557-46c9-afb1-8feb8bca4231)** — _n/a_ _(posted 2025-05-18)_
 * **[Senior Machine Learning Engineer](https://jobs.lever.co/trueml/95d90f91-fb45-4563-bcf2-3ae7f3ee81c8)** — _n/a_ _(posted 2025-04-03)_
 
@@ -311,4 +311,4 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-06-28_
+_Updated automatically — 2025-06-29_
