@@ -205,6 +205,7 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lhkqlmin9hu3z85qyabt.webp" width="24" height="24" alt="Mozilla logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mozilla](https://jobo.world/company/Mozilla)
 
+* **[Sr Staff Machine Learning Engineer, GenAI](https://job-boards.greenhouse.io/mozilla/jobs/7008814)** — _n/a_ _(posted 2025-06-29)_
 * **[Staff Machine Learning Engineer, Gen AI](https://boards.greenhouse.io/mozilla/jobs/6141864)** — _n/a_ _(posted 2025-03-14)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/txhnjc4c5hu3msapwpp7.webp" width="24" height="24" alt="NVIDIA logo" style="vertical-align:middle"/>&nbsp;&nbsp;[NVIDIA](https://jobo.world/company/NVIDIA)
@@ -278,10 +279,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 * **[Artificial Intelligence (AI) Engineers](https://apply.workable.com/getsubstance/j/587184A15D/)** — _n/a_ _(posted 2025-01-21)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cpd2x56dlcdgm8ese4rq.webp" width="24" height="24" alt="Technergetics logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Technergetics](https://jobo.world/company/Technergetics)
-
-* **[Machine Learning Research Engineer III](https://job-boards.greenhouse.io/technergetics/jobs/4573236006)** — _n/a_ _(posted 2025-06-04)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ygnclnukk5vq4h7jcssi.webp" width="24" height="24" alt="TrueML logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TrueML](https://jobo.world/company/TrueML)
 
 * **[Business Operations &amp; AI Strategist](https://jobs.lever.co/trueml/8295972c-8959-4038-bbda-529c76d17be3)** — _n/a_ _(posted 2025-06-27)_
@@ -311,4 +308,4 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-06-29_
+_Updated automatically — 2025-06-30_
