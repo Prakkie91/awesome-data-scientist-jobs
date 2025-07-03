@@ -70,13 +70,13 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 * **[Director, Data Science &amp; MLE](https://job-boards.greenhouse.io/calendly/jobs/8026884002)** — _n/a_ _(posted 2025-06-13)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o3acj3q6bo0xyuhtz8zv.webp" width="24" height="24" alt="Cars Commerce logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Cars Commerce](https://jobo.world/company/Cars-Commerce)
-
-* **[Data Scientist II](https://cars.wd12.myworkdayjobs.com/cars/job/United-States-Remote/Data-Scientist-II_JR10636)** — _n/a_ _(posted 2025-06-30)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cdih8ugm9dl9aizrtmqb.webp" width="24" height="24" alt="Clio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Clio](https://jobo.world/company/Clio)
 
 * **[Director, Data Science](https://clio.wd3.myworkdayjobs.com/cliocareersite/job/Remote---USA/Director--Data-Science_BF-REQ-2935)** — _n/a_ _(posted 2025-05-21)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
+
+* **[Sr. Machine Learning Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Machine-Learning-Engineer--Remote-_R23602)** — _n/a_ _(posted 2025-06-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sqbkzlv06ri5up7ea5sb.webp" width="24" height="24" alt="CSC Generation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CSC Generation](https://jobo.world/company/CSC-Generation)
 
@@ -116,7 +116,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ij1kvdwkn0w9aenlfz9t.webp" width="24" height="24" alt="Fieldguide logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fieldguide](https://jobo.world/company/Fieldguide)
 
-* **[Data Scientist ](https://jobs.ashbyhq.com/fieldguide/689e1035-9960-4814-83b2-405a22346e5c)** — ¤172,000 – ¤203,000 USD _(posted 2025-05-24)_
 * **[Senior Software Engineer, AI](https://jobs.ashbyhq.com/fieldguide/9823b0c9-e5c3-4bf7-940b-d759c36cd609)** — ¤168,000 – ¤203,000 USD _(posted 2025-05-02)_
 * **[Senior Machine Learning Engineer](https://jobs.ashbyhq.com/fieldguide/e11a7aea-ae86-44d7-913c-591a8a7d0803)** — ¤188,000 – ¤213,500 USD _(posted 2025-03-12)_
 
@@ -127,6 +126,10 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aufxt7vekckmzzbpqelk.webp" width="24" height="24" alt="Fleetio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fleetio](https://jobo.world/company/Fleetio)
 
 * **[AI Engineer](https://boards.greenhouse.io/fleetio/jobs/4648730007)** — _n/a_ _(posted 2025-03-14)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uahhexcojokfohmfosnd.webp" width="24" height="24" alt="Flex logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flex](https://jobo.world/company/Flex)
+
+* **[Senior Staff Machine Learning Engineer](https://job-boards.greenhouse.io/flex/jobs/4571283005)** — _n/a_ _(posted 2025-05-31)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gjruly2mmfhjz3muesax.webp" width="24" height="24" alt="Foodsmart logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Foodsmart](https://jobo.world/company/Foodsmart)
 
@@ -308,4 +311,4 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-07-02_
+_Updated automatically — 2025-07-03_
