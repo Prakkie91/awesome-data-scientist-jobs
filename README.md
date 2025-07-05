@@ -33,10 +33,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 * **[Staff Machine Learning Engineer](https://boards.greenhouse.io/angi/jobs/7846355002)** — _n/a_ _(posted 2025-03-14)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lbufpqzw8oxu5j9gdgjf.webp" width="24" height="24" alt="Appen logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Appen](https://jobo.world/company/Appen)
-
-* **[Director of AI Crowd Insights](https://jobs.lever.co/appen-2/1e83dc63-dede-4605-bd57-817f26fba3c0)** — _n/a_ _(posted 2025-01-14)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu9fyf0r2tvc7iwdcmdy.webp" width="24" height="24" alt="Arcadia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Arcadia](https://jobo.world/company/Arcadia-io)
 
 * **[Associate Data Scientist](https://jobs.lever.co/arcadia/b6914fa9-b2f9-4391-9b30-1adbbce8e4b6)** — _n/a_ _(posted 2025-06-13)_
@@ -71,10 +67,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 * **[Director, Data Science &amp; MLE](https://job-boards.greenhouse.io/calendly/jobs/8026884002)** — _n/a_ _(posted 2025-06-13)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
-
-* **[Data Scientist II (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Data-Scientist-II--Remote-_R23696)** — _n/a_ _(posted 2025-07-02)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sqbkzlv06ri5up7ea5sb.webp" width="24" height="24" alt="CSC Generation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CSC Generation](https://jobo.world/company/CSC-Generation)
 
 * **[AI-First Data Analyst (Technical &amp; Causal)](https://jobs.lever.co/cscgeneration-2/b5eae6f8-afd4-4d8b-b5b8-c8687754e91e)** — _n/a_ _(posted 2025-06-16)_
@@ -83,6 +75,7 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yc99athcktqvs3idudat.webp" width="24" height="24" alt="Danaher Corporation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Danaher Corporation](https://jobo.world/company/Danaher-Corporation)
 
+* **[Product Manager, AI Solutions - USA Remote](https://danaher.wd1.myworkdayjobs.com/danahercorporatejobs/job/USA---Remote/Product-Manager--AI-Solutions---USA-Remote_R1292442-1)** — _n/a_ _(posted 2025-07-03)_
 * **[AI Engineer, Supply Chain - USA Remote](https://danaher.wd1.myworkdayjobs.com/danahercorporatejobs/job/USA---Remote/AI-Engineer--Supply-Chain---USA-Remote_R1292721)** — _n/a_ _(posted 2025-07-02)_
 * **[Senior AI Scientist, Molecular Design - USA Remote](https://danaher.wd1.myworkdayjobs.com/danahercorporatejobs/job/USA---Remote/Senior-AI-Scientist--Molecular-Design---USA-Remote_R1289542)** — _n/a_ _(posted 2025-05-09)_
 
@@ -189,6 +182,10 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 * **[Head of AI Engineering](https://job-boards.greenhouse.io/legion/jobs/6586098003)** — _n/a_ _(posted 2025-06-18)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjahxbscuxlyey0keefe.webp" width="24" height="24" alt="Loop logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Loop](https://jobo.world/company/Loop)
+
+* **[Machine Learning Engineer](https://jobs.lever.co/loopreturns/6ee12efa-63a8-4b47-86f3-147e72b7e2d7)** — _n/a_ _(posted 2025-07-03)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bjxntapcwce90erhhj8b.webp" width="24" height="24" alt="Machinify logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Machinify](https://jobo.world/company/Machinify)
 
 * **[Principal Data Scientist](https://jobs.ashbyhq.com/machinify/247367bd-435b-4f68-9485-5e812abfa2b8)** — _n/a_ _(posted 2025-06-25)_
@@ -220,10 +217,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/d2yjlpuizwrhcwryx5uj.webp" width="24" height="24" alt="Panopto logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Panopto](https://jobo.world/company/Panopto)
 
 * **[Machine Learning Lead (R&D)](https://jobs.ashbyhq.com/panoptyc/b2664f90-ea7b-417b-9d92-6617dd21fa30)** — _n/a_ _(posted 2025-06-27)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/jqluxvjjehdk8lnz0lrg.webp" width="24" height="24" alt="Platform Science logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Platform Science](https://jobo.world/company/Platform-Science)
-
-* **[Staff Data Scientist](https://job-boards.greenhouse.io/platformscience/jobs/6620208003)** — _n/a_ _(posted 2025-06-25)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/eh6ujvleqqlksv3spdzl.webp" width="24" height="24" alt="Plotly logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Plotly](https://jobo.world/company/Plotly)
 
@@ -264,6 +257,7 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/omuszbxxi40zo5a3n10x.webp" width="24" height="24" alt="Snowflake logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Snowflake](https://jobo.world/company/Snowflake)
 
+* **[Solution Innovation Architect - AI/ML](https://jobs.ashbyhq.com/snowflake/4504c30f-ad2e-47d0-9b29-8e03751b6172)** — ¤163,000 – ¤232,000 USD _(posted 2025-07-04)_
 * **[Principal AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/8d1803d4-b244-46a9-92e9-8a6d8e7fef64)** — ¤163,000 – ¤232,000 USD _(posted 2025-06-10)_
 * **[Principal AI/ML Architect, Applied Field Engineering](https://jobs.ashbyhq.com/snowflake/7624ff17-e507-4756-8c61-08dfa6465d18)** — ¤191,000 – ¤273,000 USD _(posted 2025-05-07)_
 
@@ -308,4 +302,4 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-07-04_
+_Updated automatically — 2025-07-05_
