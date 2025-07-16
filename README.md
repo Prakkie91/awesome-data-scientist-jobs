@@ -58,6 +58,7 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ex51fd3wt4w9cnurc1wy.webp" width="24" height="24" alt="Biorender logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Biorender](https://jobo.world/company/Biorender)
 
 * **[Head of ML](https://jobs.ashbyhq.com/biorender/81d9d1db-072a-459b-a39d-688b0defd546)** — _n/a_ _(posted 2025-04-12)_
+* **[Machine Learning Engineer](https://jobs.ashbyhq.com/biorender/7d92d920-6a0c-4a53-b2a0-eb926f5de4a1)** — _n/a_ _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/leicrjjjrrebf5lxnujp.webp" width="24" height="24" alt="Brigit logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Brigit](https://jobo.world/company/Brigit)
 
@@ -181,9 +182,7 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
-* **[Staff Applied Data Scientist (PhD)](https://jobs.ashbyhq.com/jerry/b93cc040-a0cc-4c4d-a4f8-ffd33919213e)** — _n/a_ _(posted 2025-07-12)_
-* **[Staff Machine Learning Engineer (PhD)](https://jobs.ashbyhq.com/jerry/d41adc1a-962f-4b5f-b465-a82ce692b6a1)** — _n/a_ _(posted 2025-07-12)_
-* **[Staff Data Scientist (Machine Learning)](https://jobs.ashbyhq.com/jerry/b45f0850-ea4c-4ba2-9709-c921f6ef0777)** — _n/a_ _(posted 2025-07-12)_
+* **[Staff Data Scientist (Machine Learning)](https://jobs.ashbyhq.com/jerry/2621a163-5e00-418c-b3ab-6ee0432725bc)** — _n/a_ _(posted 2025-07-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rr8cf5eyjudjckqj3k1r.webp" width="24" height="24" alt="Kobo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kobo](https://jobo.world/company/Kobo)
 
@@ -254,6 +253,10 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/6706371)** — _n/a_ _(posted 2025-06-18)_
 * **[Senior Machine Learning Engineer, Measurement Modeling](https://job-boards.greenhouse.io/reddit/jobs/6785660)** — _n/a_ _(posted 2025-04-15)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/dc38htlnujhd1sx7rjjk.webp" width="24" height="24" alt="Replicant logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Replicant](https://jobo.world/company/Replicant)
+
+* **[Senior Machine Learning Engineer](https://jobs.ashbyhq.com/replicant/3386a2a4-619b-4a34-b605-a640f96f2fb2)** — _n/a_ _(posted 2025-05-02)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uctpsm9v2ztjf5g3pgnl.webp" width="24" height="24" alt="Rocket Money logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rocket Money](https://jobo.world/company/RocketMoney)
 
 * **[Senior ML Engineer, Product](https://job-boards.greenhouse.io/truebill/jobs/6353484003)** — _n/a_ _(posted 2025-07-03)_
@@ -323,4 +326,4 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-07-15_
+_Updated automatically — 2025-07-16_
