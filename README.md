@@ -128,6 +128,10 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 * **[Machine Learning Researcher](https://jobs.ashbyhq.com/elevenlabs/3d650946-5ac2-4729-9ae4-129c43fcd0b5)** — _n/a_ _(posted 2025-03-12)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nerakkfib4vn5co7bmr3.webp" width="24" height="24" alt="Expedia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Expedia](https://jobo.world/company/Expedia)
+
+* **[Senior Principal Data Scientist (Remote)](https://jobs.smartrecruiters.com/Experian/744000071058506-senior-principal-data-scientist-remote-?oga=true)** — _n/a_ _(posted 2025-07-16)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ij1kvdwkn0w9aenlfz9t.webp" width="24" height="24" alt="Fieldguide logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fieldguide](https://jobo.world/company/Fieldguide)
 
 * **[Senior Software Engineer, AI](https://jobs.ashbyhq.com/fieldguide/9823b0c9-e5c3-4bf7-940b-d759c36cd609)** — ¤168,000 – ¤203,000 USD _(posted 2025-05-02)_
@@ -211,10 +215,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Principal Tech Lead Manager - VLM/LLM for Large Scale Data Mining](https://job-boards.greenhouse.io/motional/jobs/6581277003)** — _n/a_ _(posted 2025-05-23)_
 * **[Senior Software Engineer, ML Data Services](https://job-boards.greenhouse.io/motional/jobs/6261329003)** — ¤155,300 – ¤207,000 USD _(posted 2025-04-15)_
 * **[Principal Engineer - Behaviors](https://job-boards.greenhouse.io/motional/jobs/6521874003)** — _n/a_ _(posted 2025-04-15)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zwubunmuzrhumn3mx2us.webp" width="24" height="24" alt="Motive logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motive](https://jobo.world/company/Motive)
-
-* **[Senior Applied Scientist](https://job-boards.greenhouse.io/gomotive/jobs/8042652002)** — _n/a_ _(posted 2025-06-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ipqjggsa4adm24tegtgj.webp" width="24" height="24" alt="MyFitnessPal logo" style="vertical-align:middle"/>&nbsp;&nbsp;[MyFitnessPal](https://jobo.world/company/MyFitnessPal)
 
@@ -323,4 +323,4 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-07-17_
+_Updated automatically — 2025-07-18_
