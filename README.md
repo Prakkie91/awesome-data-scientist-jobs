@@ -25,6 +25,11 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Staff AI Researcher - ML and AI modeling in Epidemiology](https://jobs.lever.co/aledade/ee3e6853-d1fe-4dd7-9e2d-95b7c54b51fc)** — _n/a_ _(posted 2025-07-08)_
 * **[Senior ML/AI Researcher II  - ML and AI modeling](https://jobs.lever.co/aledade/6ef0cf14-1fa9-4a99-8e17-805b364fac75)** — _n/a_ _(posted 2025-07-08)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/hr15kfrnkqpkjlyedtzn.webp" width="24" height="24" alt="Alto Pharmacy logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Alto Pharmacy](https://jobo.world/company/Alto)
+
+* **[Staff Applied Scientist](https://alto.wd1.myworkdayjobs.com/alto_external_career_site/job/Remote---Texas/Staff-Applied-Scientist_R200193)** — _n/a_ _(posted 2025-07-15)_
+* **[Senior Applied Scientist](https://alto.wd1.myworkdayjobs.com/alto_external_career_site/job/Remote---Texas/Staff-Applied-Scientist_R200015)** — _n/a_ _(posted 2025-06-09)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/chwihdihlaepndnkqagr.webp" width="24" height="24" alt="Angi logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Angi](https://jobo.world/company/Angi)
 
 * **[Staff Machine Learning Engineer](https://job-boards.greenhouse.io/angi/jobs/7700497002)** — _n/a_ _(posted 2025-07-09)_
@@ -222,7 +227,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/l4bo4rdk0efiqvvzos5y.webp" width="24" height="24" alt="Oura logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Oura](https://jobo.world/company/Oura)
 
-* **[Machine Learning Data Scientist, Women's Health](https://apply.workable.com/oura-health-ltd/j/E534BA7AA3/)** — ¤142,000 USD _(posted 2025-07-10)_
 * **[Staff Machine Learning Data Scientist](https://apply.workable.com/oura-health-ltd/j/2631168F45/)** — ¤182,000 USD _(posted 2025-07-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mvi4ljeaebdhijrpbciu.webp" width="24" height="24" alt="Pear VC logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Pear VC](https://jobo.world/company/PearVC)
@@ -248,17 +252,13 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mryrjezblnfpjtjmae2c.webp" width="24" height="24" alt="Reddit logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Reddit](https://jobo.world/company/Reddit)
 
+* **[Machine Learning Manager - Ads Measurement Modeling](https://job-boards.greenhouse.io/reddit/jobs/6994869)** — _n/a_ _(posted 2025-07-18)_
 * **[Staff Data Scientist, Ads](https://job-boards.greenhouse.io/reddit/jobs/6706371)** — _n/a_ _(posted 2025-06-18)_
 * **[Senior Machine Learning Engineer, Measurement Modeling](https://job-boards.greenhouse.io/reddit/jobs/6785660)** — _n/a_ _(posted 2025-04-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uctpsm9v2ztjf5g3pgnl.webp" width="24" height="24" alt="Rocket Money logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Rocket Money](https://jobo.world/company/RocketMoney)
 
 * **[Senior ML Engineer, Product](https://job-boards.greenhouse.io/truebill/jobs/6353484003)** — _n/a_ _(posted 2025-07-03)_
-* **[Senior Data Scientist, Full Stack](https://job-boards.greenhouse.io/truebill/jobs/6059342003)** — _n/a_ _(posted 2025-04-26)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/q980vtbupbvhldx41hpg.webp" width="24" height="24" alt="ScienceLogic logo" style="vertical-align:middle"/>&nbsp;&nbsp;[ScienceLogic](https://jobo.world/company/ScienceLogic)
-
-* **[Agentic AI Machine Learning Engineer](https://job-boards.greenhouse.io/sciencelogic/jobs/6956419)** — _n/a_ _(posted 2025-06-06)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/z5uwwyqxguofrmbzy43j.webp" width="24" height="24" alt="Self Financial logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Self Financial](https://jobo.world/company/Self-Financial)
 
@@ -323,4 +323,4 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-07-18_
+_Updated automatically — 2025-07-19_
