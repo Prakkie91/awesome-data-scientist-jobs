@@ -88,6 +88,10 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Member of Technical Staff, Multilingual](https://jobs.ashbyhq.com/cohere/a87be947-00f0-4a4c-a690-a4922f88f553)** — _n/a_ _(posted 2025-06-25)_
 * **[Member of Technical Staff, Search](https://jobs.ashbyhq.com/cohere/d5cc437c-2397-4c1a-9d12-3a2bf64d98ea)** — _n/a_ _(posted 2025-05-24)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ryt5tjq7ftjfh2sfczyk.webp" width="24" height="24" alt="Coinbase logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Coinbase](https://jobo.world/company/Coinbase)
+
+* **[Staff Machine Learning Engineer (Referrals)](https://boards.greenhouse.io/cbreferral/jobs/6651843)** — _n/a_ _(posted 2025-03-14)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p51wpz1xuhr53cmc6hnh.webp" width="24" height="24" alt="Confluent logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Confluent](https://jobo.world/company/Confluent)
 
 * **[Director, Data Science](https://jobs.ashbyhq.com/confluent/7de4fc5c-abdb-4c19-8a4c-0d1fd6f8a29c)** — ¤292,500 – ¤351,000 USD _(posted 2025-07-12)_
@@ -115,11 +119,7 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjk0q1dyjqqswplpttmj.webp" width="24" height="24" alt="Discord logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Discord](https://jobo.world/company/Discord)
 
-* **[Staff Software Engineer, Machine Learning](https://job-boards.greenhouse.io/discord/jobs/7997969002)** — _n/a_ _(posted 2025-05-21)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/kyn2e79zvwlrizfjvclb.webp" width="24" height="24" alt="EarnIn logo" style="vertical-align:middle"/>&nbsp;&nbsp;[EarnIn](https://jobo.world/company/Earnin)
-
-* **[Senior Machine Learning Engineer - Risk Modeling](https://job-boards.greenhouse.io/earnin/jobs/7014594)** — ¤209,000 – ¤255,400 USD _(posted 2025-06-27)_
+* **[Staff Software Engineer, Machine Learning](https://job-boards.greenhouse.io/discord/jobs/8090744002)** — _n/a_ _(posted 2025-07-25)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yzkimf3zrdbpki20fjgt.webp" width="24" height="24" alt="Eight Sleep logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Eight Sleep](https://jobo.world/company/Eight-Sleep)
 
@@ -135,12 +135,15 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ij1kvdwkn0w9aenlfz9t.webp" width="24" height="24" alt="Fieldguide logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fieldguide](https://jobo.world/company/Fieldguide)
 
-* **[Senior Software Engineer, AI](https://jobs.ashbyhq.com/fieldguide/9823b0c9-e5c3-4bf7-940b-d759c36cd609)** — ¤168,000 – ¤203,000 USD _(posted 2025-05-02)_
 * **[Senior Machine Learning Engineer](https://jobs.ashbyhq.com/fieldguide/e11a7aea-ae86-44d7-913c-591a8a7d0803)** — ¤188,000 – ¤213,500 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/aufxt7vekckmzzbpqelk.webp" width="24" height="24" alt="Fleetio logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Fleetio](https://jobo.world/company/Fleetio)
 
 * **[AI Engineer](https://boards.greenhouse.io/fleetio/jobs/4648730007)** — _n/a_ _(posted 2025-03-14)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/uahhexcojokfohmfosnd.webp" width="24" height="24" alt="Flex logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flex](https://jobo.world/company/Flex)
+
+* **[Senior Staff Machine Learning Engineer](https://job-boards.greenhouse.io/flex/jobs/4589609005)** — _n/a_ _(posted 2025-07-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
 
@@ -202,6 +205,7 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ac9ek3cianx4jwsfjvd6.webp" width="24" height="24" alt="Marqeta logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Marqeta](https://jobo.world/company/Marqeta)
 
 * **[Staff Machine Learning Scientist](https://job-boards.greenhouse.io/mqreferrals/jobs/6832157)** — _n/a_ _(posted 2025-07-22)_
+* **[Staff Machine Learning Scientist](https://job-boards.greenhouse.io/marqeta/jobs/6832155)** — _n/a_ _(posted 2025-07-07)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/pskgbtvzunfrwxtkuyvl.webp" width="24" height="24" alt="Mission Lane logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Mission Lane](https://jobo.world/company/Mission-Lane)
 
@@ -218,10 +222,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/szrb6vmzsc0gvvqv6rvp.webp" width="24" height="24" alt="Pattern Data logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Pattern Data](https://jobo.world/company/Pattern-Data)
 
 * **[Machine Learning Engineer](https://job-boards.greenhouse.io/patterndata/jobs/4793457007)** — _n/a_ _(posted 2025-07-22)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/mvi4ljeaebdhijrpbciu.webp" width="24" height="24" alt="Pear VC logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Pear VC](https://jobo.world/company/PearVC)
-
-* **[Member of Technial Staff, ML](https://jobs.ashbyhq.com/pear/11a0e54b-0afa-4f3a-89af-1ba9d77a9199)** — _n/a_ _(posted 2025-03-15)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/o4tlsfkwdfijlljgxf8n.webp" width="24" height="24" alt="Persona logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Persona](https://jobo.world/company/Persona)
 
@@ -320,4 +320,4 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-07-25_
+_Updated automatically — 2025-07-26_
