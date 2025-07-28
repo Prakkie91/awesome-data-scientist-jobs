@@ -91,10 +91,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 * **[Staff Machine Learning Engineer (Referrals)](https://boards.greenhouse.io/cbreferral/jobs/6651843)** — _n/a_ _(posted 2025-03-14)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/p51wpz1xuhr53cmc6hnh.webp" width="24" height="24" alt="Confluent logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Confluent](https://jobo.world/company/Confluent)
-
-* **[Director, Data Science](https://jobs.ashbyhq.com/confluent/7de4fc5c-abdb-4c19-8a4c-0d1fd6f8a29c)** — ¤292,500 – ¤351,000 USD _(posted 2025-07-12)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sqbkzlv06ri5up7ea5sb.webp" width="24" height="24" alt="CSC Generation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CSC Generation](https://jobo.world/company/CSC-Generation)
 
 * **[AI-First Data Analyst (Technical &amp; Causal)](https://jobs.lever.co/cscgeneration-2/b5eae6f8-afd4-4d8b-b5b8-c8687754e91e)** — _n/a_ _(posted 2025-06-16)_
@@ -153,6 +149,11 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Senior Machine Learning Engineer / Data Scientist (PhD Graduates)](https://job-boards.greenhouse.io/fourkites/jobs/6870110)** — _n/a_ _(posted 2025-05-16)_
 * **[AI &amp; Frontier Model Scientist](https://job-boards.greenhouse.io/fourkites/jobs/6699101)** — _n/a_ _(posted 2025-04-15)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rkvadkpjcebsbg2fjdtk.webp" width="24" height="24" alt="General Motors logo" style="vertical-align:middle"/>&nbsp;&nbsp;[General Motors](https://jobo.world/company/General-Motors)
+
+* **[Senior Software Engineer](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Remote---United-States/Senior-Software-Engineer_JR-202511057)** — _n/a_ _(posted 2025-06-27)_
+* **[Sr. Machine Learning Engineer](https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/Remote---United-States/Sr-Machine-Learning-Engineer_JR-202511063)** — _n/a_ _(posted 2025-06-27)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/w52ljq22emi9wfnxrvtn.webp" width="24" height="24" alt="GOAT Group logo" style="vertical-align:middle"/>&nbsp;&nbsp;[GOAT Group](https://jobo.world/company/GOAT-Group)
 
 * **[Staff Data Scientist](https://job-boards.greenhouse.io/goatgroup/jobs/4574077005)** — _n/a_ _(posted 2025-06-07)_
@@ -160,7 +161,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/tgzryldkxag6dhkpbwqq.webp" width="24" height="24" alt="Handshake logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Handshake](https://jobo.world/company/Handshake)
 
 * **[Senior Machine Learning Engineer](https://jobs.ashbyhq.com/handshake/8d980760-45e9-4d4c-940f-e2118082b5c0)** — ¤220,000 – ¤260,000 USD _(posted 2025-07-12)_
-* **[AI Tutor, Machine Learning Specialist (contract), Handshake AI](https://jobs.ashbyhq.com/handshake/688c906d-4ed3-40e2-bca9-e3c96ba2fba7)** — _n/a_ _(posted 2025-07-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2ezpbx124zsbrql2a7b.webp" width="24" height="24" alt="Hang logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Hang](https://jobo.world/company/Hang)
 
@@ -317,4 +317,4 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-07-27_
+_Updated automatically — 2025-07-28_
