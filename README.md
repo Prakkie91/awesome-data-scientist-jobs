@@ -22,6 +22,7 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ytq0iq1fcp579zoqmu0w.webp" width="24" height="24" alt="Aledade logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Aledade](https://jobo.world/company/Aledade)
 
+* **[Staff Software Engineer, AI Data Engineering](https://jobs.lever.co/aledade/e46363f6-0fdf-4d01-842b-2492df142cae)** — _n/a_ _(posted 2025-07-28)_
 * **[Staff AI Researcher- Generative AI](https://jobs.lever.co/aledade/ea2973b0-6814-48ec-81b9-66963f843087)** — _n/a_ _(posted 2025-07-18)_
 * **[Staff AI Researcher - ML and AI modeling in Epidemiology](https://jobs.lever.co/aledade/ee3e6853-d1fe-4dd7-9e2d-95b7c54b51fc)** — _n/a_ _(posted 2025-07-08)_
 * **[Senior ML/AI Researcher II  - ML and AI modeling](https://jobs.lever.co/aledade/6ef0cf14-1fa9-4a99-8e17-805b364fac75)** — _n/a_ _(posted 2025-07-08)_
@@ -42,10 +43,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 * **[Research Engineer, Pre-training](https://job-boards.greenhouse.io/anthropic/jobs/4616971008)** — _n/a_ _(posted 2025-07-19)_
 * **[Research Engineer, Tokens (Pre-training)](https://job-boards.greenhouse.io/anthropic/jobs/4516810008)** — ¤280,000 – ¤425,000 USD _(posted 2025-03-31)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu9fyf0r2tvc7iwdcmdy.webp" width="24" height="24" alt="Arcadia logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Arcadia](https://jobo.world/company/Arcadia-io)
-
-* **[Associate Data Scientist](https://jobs.lever.co/arcadia/b6914fa9-b2f9-4391-9b30-1adbbce8e4b6)** — _n/a_ _(posted 2025-06-13)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ggceq0tw5pnlncrgxzu5.webp" width="24" height="24" alt="Arine logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Arine](https://jobo.world/company/Arine)
 
@@ -85,19 +82,18 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 * **[Member of Technical Staff, Next Generation Agents](https://jobs.ashbyhq.com/cohere/f931c326-4d16-44b3-812c-99378c60280f)** — _n/a_ _(posted 2025-06-26)_
 * **[Member of Technical Staff, Multilingual](https://jobs.ashbyhq.com/cohere/a87be947-00f0-4a4c-a690-a4922f88f553)** — _n/a_ _(posted 2025-06-25)_
-* **[Member of Technical Staff, Search](https://jobs.ashbyhq.com/cohere/d5cc437c-2397-4c1a-9d12-3a2bf64d98ea)** — _n/a_ _(posted 2025-05-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ryt5tjq7ftjfh2sfczyk.webp" width="24" height="24" alt="Coinbase logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Coinbase](https://jobo.world/company/Coinbase)
 
 * **[Staff Machine Learning Engineer (Referrals)](https://boards.greenhouse.io/cbreferral/jobs/6651843)** — _n/a_ _(posted 2025-03-14)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qogfqwtschjchtjlzyr3.webp" width="24" height="24" alt="Crowdstrike logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Crowdstrike](https://jobo.world/company/Crowdstrike)
-
-* **[Sr. Machine Learning Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Sr-Machine-Learning-Engineer--Remote-_R23602)** — _n/a_ _(posted 2025-06-26)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/sqbkzlv06ri5up7ea5sb.webp" width="24" height="24" alt="CSC Generation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CSC Generation](https://jobo.world/company/CSC-Generation)
 
 * **[AI-First Data Analyst (Technical &amp; Causal)](https://jobs.lever.co/cscgeneration-2/b5eae6f8-afd4-4d8b-b5b8-c8687754e91e)** — _n/a_ _(posted 2025-06-16)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/acwwybrxoozoyvddv6wy.webp" width="24" height="24" alt="CVS Health logo" style="vertical-align:middle"/>&nbsp;&nbsp;[CVS Health](https://jobo.world/company/CVS-Health)
+
+* **[Senior Data Scientist - Retail](https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/GA---Work-from-home/Senior-Data-Scientist---Retail_R0658856)** — _n/a_ _(posted 2025-07-28)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/yc99athcktqvs3idudat.webp" width="24" height="24" alt="Danaher Corporation logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Danaher Corporation](https://jobo.world/company/Danaher-Corporation)
 
@@ -177,6 +173,9 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/lu1fnjgrjwoa651dm7l9.webp" width="24" height="24" alt="Jerry logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Jerry](https://jobo.world/company/Jerry)
 
+* **[Staff Machine Learning Engineer (PhD)](https://jobs.ashbyhq.com/jerry/da7935ea-2bcd-4a7c-b0d4-9ddf8a092468)** — _n/a_ _(posted 2025-07-29)_
+* **[Staff Data Scientist (Machine Learning)](https://jobs.ashbyhq.com/jerry/6b9908d5-8f4b-4d52-a898-85240243654b)** — _n/a_ _(posted 2025-07-29)_
+* **[Staff Applied Data Scientist (PhD)](https://jobs.ashbyhq.com/jerry/97fe3609-4aba-42ff-b5f0-dde17a7849b9)** — _n/a_ _(posted 2025-07-29)_
 * **[Staff Data Scientist (Machine Learning)](https://jobs.ashbyhq.com/jerry/af2e8b28-25e7-44de-9051-87abc6fa3022)** — _n/a_ _(posted 2025-07-26)_
 * **[Staff Applied Data Scientist (PhD)](https://jobs.ashbyhq.com/jerry/fbeaa330-3aee-4672-af98-08e12963ae59)** — _n/a_ _(posted 2025-07-26)_
 * **[Staff Machine Learning Engineer (PhD)](https://jobs.ashbyhq.com/jerry/0cc87ee8-8804-4e01-8aa4-5c2873750b89)** — _n/a_ _(posted 2025-07-26)_
@@ -194,10 +193,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zqwdqarecv3wrvefdxy0.webp" width="24" height="24" alt="Life360 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Life360](https://jobo.world/company/Life360)
 
 * **[Director of Data Science](https://job-boards.greenhouse.io/life360/jobs/8071269002)** — _n/a_ _(posted 2025-07-11)_
-
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/qjahxbscuxlyey0keefe.webp" width="24" height="24" alt="Loop logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Loop](https://jobo.world/company/Loop)
-
-* **[Machine Learning Engineer](https://jobs.lever.co/loopreturns/6ee12efa-63a8-4b47-86f3-147e72b7e2d7)** — _n/a_ _(posted 2025-07-03)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/bjxntapcwce90erhhj8b.webp" width="24" height="24" alt="Machinify logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Machinify](https://jobo.world/company/Machinify)
 
@@ -219,6 +214,10 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cyee6notwy6rmksreyek.webp" width="24" height="24" alt="Natera logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Natera](https://jobo.world/company/Natera)
 
 * **[Staff Software Engineer - Revenue Cycle Management](https://job-boards.greenhouse.io/natera/jobs/5525708004)** — _n/a_ _(posted 2025-07-19)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cfkrdvfno6d3mhdsouhn.webp" width="24" height="24" alt="Opendoor logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Opendoor](https://jobo.world/company/Opendoor)
+
+* **[Research Scientist](https://job-boards.greenhouse.io/opendoor/jobs/4588169006)** — _n/a_ _(posted 2025-07-29)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/szrb6vmzsc0gvvqv6rvp.webp" width="24" height="24" alt="Pattern Data logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Pattern Data](https://jobo.world/company/Pattern-Data)
 
@@ -289,10 +288,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 * **[Machine Learning Research Engineer III](https://job-boards.greenhouse.io/technergetics/jobs/4573236006)** — _n/a_ _(posted 2025-06-04)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/r40ajrc2uetxb7obycan.webp" width="24" height="24" alt="TetraScience logo" style="vertical-align:middle"/>&nbsp;&nbsp;[TetraScience](https://jobo.world/company/TetraScience)
-
-* **[Senior Applied AI/ML Engineer](https://apply.workable.com/tetrascience/j/E47D559017/)** — _n/a_ _(posted 2025-06-06)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/nmpjang8hd7j1tvecltw.webp" width="24" height="24" alt="The Zebra logo" style="vertical-align:middle"/>&nbsp;&nbsp;[The Zebra](https://jobo.world/company/The-Zebra)
 
 * **[Senior Manager Data Science (Remote, United States)](https://jobs.ashbyhq.com%2Fthe%2520zebra%2Fbb3bbaf7-8908-46fe-a40d-c54168b08fbf)** — _n/a_ _(posted 2025-07-01)_
@@ -304,7 +299,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/wkrv8bqwzwnyiu1zirqr.webp" width="24" height="24" alt="Trunk Tools logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Trunk Tools](https://jobo.world/company/Trunk-Tools,-Inc.)
 
-* **[Computer Vision Engineer](https://jobs.ashbyhq.com%2Ftrunk%2520tools%2Ff23441be-d5fa-4674-933e-21efb820de4f)** — ¤140,000 – ¤200,000 USD _(posted 2025-07-01)_
 * **[ML Engineer (Remote, NYC, Austin)](https://jobs.ashbyhq.com%2Ftrunk%2520tools%2F1cca011e-bc3e-4118-aa48-7c2008b7e2c1)** — ¤140,000 – ¤200,000 USD _(posted 2025-03-12)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zq1j3077jl0jza2qltop.webp" width="24" height="24" alt="Turing logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Turing](https://jobo.world/company/Turing)
@@ -320,4 +314,4 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-07-29_
+_Updated automatically — 2025-07-30_
