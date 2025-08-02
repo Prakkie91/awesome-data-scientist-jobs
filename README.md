@@ -59,7 +59,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/ufu9ybmv5kierbneyd6z.webp" width="24" height="24" alt="Axsome Therapeutics Inc logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Axsome Therapeutics Inc](https://jobo.world/company/Axsome-Therapeutics-Inc)
 
-* **[Machine Learning Scientist II/Sr (Biomedical Images)](https://jobs.ashbyhq.com/iambic-therapeutics/78382d24-b006-4187-9d93-658341ff927f)** — ¤152,000 – ¤215,000 USD _(posted 2025-06-26)_
 * **[Machine Learning Scientist II/Sr (Omics)](https://jobs.ashbyhq.com/iambic-therapeutics/926c7fe3-42fc-44d9-b5f3-29dde2068f08)** — ¤152,000 – ¤215,000 USD _(posted 2025-06-26)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/haqaiftm1swlpga8pyfi.webp" width="24" height="24" alt="BambooHR logo" style="vertical-align:middle"/>&nbsp;&nbsp;[BambooHR](https://jobo.world/company/BambooHR)
@@ -136,6 +135,10 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 
 * **[Senior Staff Machine Learning Engineer](https://job-boards.greenhouse.io/flex/jobs/4589609005)** — _n/a_ _(posted 2025-07-24)_
 
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/t2lg8tsc975fgvyr54yk.webp" width="24" height="24" alt="Flock Safety logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Flock Safety](https://jobo.world/company/FlockSafety)
+
+* **[Staff Machine Learning Scientist](https://jobs.ashbyhq.com%2Fflock%2520safety%2Fd5e7afd3-026b-4457-a39a-48bb3bab8a1b)** — ¤200,000 – ¤240,000 USD _(posted 2025-05-24)_
+
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/gjruly2mmfhjz3muesax.webp" width="24" height="24" alt="Foodsmart logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Foodsmart](https://jobo.world/company/Foodsmart)
 
 * **[Senior AI Engineer](https://jobs.lever.co/foodsmart/721a1ecf-2e21-4a66-94d0-7079bba6945d)** — _n/a_ _(posted 2025-05-31)_
@@ -181,10 +184,6 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Staff Applied Data Scientist (PhD)](https://jobs.ashbyhq.com/jerry/894756b3-3194-48b3-8b21-a47509b19c35)** — _n/a_ _(posted 2025-07-19)_
 * **[Staff Data Scientist (Machine Learning)](https://jobs.ashbyhq.com/jerry/75ac4365-6251-42c1-b1fc-6d99d2868224)** — _n/a_ _(posted 2025-07-19)_
 
-### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/rr8cf5eyjudjckqj3k1r.webp" width="24" height="24" alt="Kobo logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Kobo](https://jobo.world/company/Kobo)
-
-* **[1st hire: 🧪 Data Science](https://jobs.ashbyhq.com/kovo/890936ab-f29f-4159-a665-bc4228bde991)** — ¤150,000 – ¤210,000 USD _(posted 2025-06-24)_
-
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zqwdqarecv3wrvefdxy0.webp" width="24" height="24" alt="Life360 logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Life360](https://jobo.world/company/Life360)
 
 * **[Director of Data Science](https://job-boards.greenhouse.io/life360/jobs/8071269002)** — _n/a_ _(posted 2025-07-11)_
@@ -205,6 +204,10 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/swemkb5unyfxq9mvoh58.webp" width="24" height="24" alt="Motional logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motional](https://jobo.world/company/Motional)
 
 * **[Principal Tech Lead Manager - VLM/LLM for Large Scale Data Mining](https://job-boards.greenhouse.io/motional/jobs/6581277003)** — _n/a_ _(posted 2025-05-23)_
+
+### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/zwubunmuzrhumn3mx2us.webp" width="24" height="24" alt="Motive logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Motive](https://jobo.world/company/Motive)
+
+* **[Senior Applied Scientist](https://job-boards.greenhouse.io/gomotive/jobs/8042652002)** — _n/a_ _(posted 2025-06-24)_
 
 ### <img src="https://res.cloudinary.com/dbwpvgyrn/image/upload/f_webp,q_85,w_100,h_100,c_scale/cyee6notwy6rmksreyek.webp" width="24" height="24" alt="Natera logo" style="vertical-align:middle"/>&nbsp;&nbsp;[Natera](https://jobo.world/company/Natera)
 
@@ -314,4 +317,4 @@ Browse a wide range of remote Data Scientist positions available globally. New j
 * **[Machine Learning Engineer - Open Call](https://job-boards.greenhouse.io/wizardcommerce/jobs/5545455004)** — _n/a_ _(posted 2025-05-21)_
 
 ---
-_Updated automatically — 2025-08-01_
+_Updated automatically — 2025-08-02_
